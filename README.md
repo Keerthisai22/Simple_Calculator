@@ -20,8 +20,11 @@ A beginner-friendly Python program that performs basic arithmetic operations usi
 ## Sample Output
 ---------- SIMPLE CALCULATOR ----------
 Addition       = 20
+
 Subtraction    = 10
+
 Multiplication = 75
+
 Division       = 3.0
 
 ## Concepts Used
