@@ -19,6 +19,7 @@ A beginner-friendly Python program that performs basic arithmetic operations usi
 
 ## Sample Output
 ---------- SIMPLE CALCULATOR ----------
+
 Addition       = 20
 
 Subtraction    = 10
